@@ -1,0 +1,31 @@
+Content\NFTexture.xnb
+Content\Player.xnb
+Content\WallBlock.xnb
+Content\Pistol.xnb
+Content\Bullets\GenericBullet.xnb
+Content\BlankTexture.xnb
+Content\Turret.xnb
+Content\Shotgun.xnb
+Content\DefaultParticle.xnb
+Content\Powerups\JumpUpgrade.xnb
+Content\UI\DefaultButtonIdle.xnb
+Content\UI\DefaultButtonHover.xnb
+Content\UI\DefaultButtonPressed.xnb
+Content\BreakableWall.xnb
+Content\Bullets\GenericShell.xnb
+Content\emptyhealth.xnb
+Content\filledhealth.xnb
+Content\Powerups\TimeUpgrade.xnb
+Content\Debug Assets\debugfont.xnb
+Content\ImportantFont.xnb
+Content\CreditsMainFont.xnb
+Content\CreditsSubFont.xnb
+Content\NFFont.xnb
+Content\SpecialMessageFont.xnb
+Content\Audio\genericshoot.xnb
+Content\Audio\shotgun.xnb
+Content\Audio\explosion.xnb
+Content\NFSound.xnb
+Content\Pistol.png
+Content\Levels\Level 1.xml
+Content\Levels\Level 2.xml

@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Level_01" Visible="true">
+    <Layers>
+        <Layer Name="New Layer" Visible="true">
+            <Items>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0001" Visible="true">
+                    <Position>
+                        <X>-244</X>
+                        <Y>-112</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>88</Width>
+                    <Height>660</Height>
+                    <FillColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0002" Visible="true">
+                    <Position>
+                        <X>-48</X>
+                        <Y>8</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>0</B>
+                        <A>255</A>
+                        <PackedValue>4294967040</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>D:\Data\Repos\XNASP13\trunk\tylercamp\Super SquareMan Man 2\Super SquareMan Man 2\Super SquareMan Man 2Content\Player.png</texture_filename>
+                    <asset_name>D:\Data\Repos\XNASP13\trunk\tylercamp\Super SquareMan Man 2\Super SquareMan Man 2\Super SquareMan Man 2Content\Player</asset_name>
+                    <Origin>
+                        <X>16</X>
+                        <Y>16</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0010" Visible="true">
+                    <Position>
+                        <X>76</X>
+                        <Y>-104</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>88</Width>
+                    <Height>652</Height>
+                    <FillColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0011" Visible="true">
+                    <Position>
+                        <X>-652</X>
+                        <Y>892</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>1400</Width>
+                    <Height>120</Height>
+                    <FillColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0012" Visible="true">
+                    <Position>
+                        <X>480</X>
+                        <Y>816</Y>
+                    </Position>
+                    <CustomProperties>
+                        <Property Name="TargetLevel" Type="string" Description="">
+                            <string>$GameWin</string>
+                        </Property>
+                    </CustomProperties>
+                    <Width>76</Width>
+                    <Height>76</Height>
+                    <FillColor>
+                        <R>0</R>
+                        <G>0</G>
+                        <B>128</B>
+                        <A>255</A>
+                        <PackedValue>4278190208</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0013" Visible="true">
+                    <Position>
+                        <X>-5204</X>
+                        <Y>1280</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>11708</Width>
+                    <Height>332</Height>
+                    <FillColor>
+                        <R>200</R>
+                        <G>66</G>
+                        <B>66</B>
+                        <A>200</A>
+                        <PackedValue>3368567362</PackedValue>
+                    </FillColor>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+        </Layer>
+    </Layers>
+    <CustomProperties />
+    <EditorRelated>
+        <NextItemNumber>13</NextItemNumber>
+        <ContentRootFolder>.\Super SquareMan Man 2\Super SquareMan Man 2Content</ContentRootFolder>
+        <CameraPosition>
+            <X>520.0007</X>
+            <Y>787.501</Y>
+        </CameraPosition>
+        <Version>1.3.0.0</Version>
+    </EditorRelated>
+</Level>
